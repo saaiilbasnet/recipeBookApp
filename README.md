@@ -21,7 +21,7 @@ A simple recipe book application that displays a variety of random recipes fetch
    git clone https://github.com/saaiilbasnet/recipeBookApp.git
 
   ```
-##Demo/Screenshot
+## Demo/Screenshot
 ![image](https://github.com/user-attachments/assets/da398d80-1128-4984-aa67-3ab12f0e72c9)
 
 
